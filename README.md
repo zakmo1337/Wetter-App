@@ -4,6 +4,14 @@
 
 ![image](https://github.com/user-attachments/assets/e59e4050-1b9d-474d-918e-a5df50215a60)
 
+## Installation
+
+To install the Weather App, download the latest version of the installer from [this link](https://github.com/zakmo1337/Wetter_App/releases/tag/v1.0).
+
+### Installation steps:
+1. Download **Weather.App.exe** from the link.
+2. Run the installer.
+3. Follow the instructions in the installation wizard.
 
 
 ## Features
