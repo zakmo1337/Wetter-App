@@ -2,6 +2,10 @@
 
 **Weather App** is a simple WPF application that displays the current weather data for a city entered by the user. The app uses the OpenWeatherMap API to fetch and show the temperature of the selected city. It provides a user-friendly interface and is intended for basic weather forecasting applications.
 
+![image](https://github.com/user-attachments/assets/e59e4050-1b9d-474d-918e-a5df50215a60)
+
+
+
 ## Features
 - **City Input**: Users can enter a city name to fetch its current temperature.
 - **Temperature Display**: The app shows the current temperature in **Celsius**, with no decimal values (rounded to the nearest whole number).
